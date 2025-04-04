@@ -3,6 +3,7 @@
 
 A lightweight and efficient web tool to **test MCP server connectivity** and validate installation codes. Built using **Node.js**, **Express**, and **EJS**, this tool helps developers and system admins verify if their MCP Server setup is functional.
 
+[LiveLink](https://mcp-server-tester-1.onrender.com/)
 [🔗 View on GitHub](https://github.com/nandkumar1000/MCP-Server-Tester)
 
 ---
